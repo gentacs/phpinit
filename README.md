@@ -1,0 +1,2 @@
+# phpinit
+php scaffolding
